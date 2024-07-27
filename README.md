@@ -1,0 +1,1 @@
+Este projeto foi criado com a intenção de ser um sistema onde o Aluno colocara os seus dados como Nome, Matricula, Escola, Perido e Materias cursadas naquele periodo, para que o mesmo consiga obter o resultado se foi aprovado ou não.
